@@ -4,8 +4,8 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
-  color: #fff;
+  background-color: #064b66;
+  color: rgb(13, 139, 241);
   overflow-x: hidden;
 }
 #root {
@@ -93,7 +93,7 @@ h1 {
 
 .member-page form h5 {
   margin-top: 0;
-  color: #7700ee;
+  color: #064b66;
 }
 
 .member-page form .card > div {
@@ -107,7 +107,7 @@ h1 {
 }
 
 .card {
-  background-color: #fff;
+  background-color: rgb(13, 139, 241);
   padding: 1rem;
   border-radius: 1rem;
   color: #000;
@@ -117,7 +117,7 @@ h1 {
 button {
   cursor: pointer;
   background-color: #000;
-  color: #fff;
+  color: rgb(13, 139, 241);
   border: none;
   font-weight: bold;
   font-family: inherit;
